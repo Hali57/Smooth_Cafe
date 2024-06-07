@@ -1,4 +1,4 @@
-# mini_app
+# Smooth Cafe
 
 A new Flutter project.
 
